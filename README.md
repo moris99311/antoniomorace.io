@@ -1,6 +1,8 @@
 <br>
 <br>
-# SNAKE
+
+## SNAKE
+
 
 Questo progetto è una semplice implementazione del classico gioco Snake, sviluppato in linguaggio C e compilato con Emscripten per poter essere eseguito direttamente nel browser tramite WebAssembly.
 
